@@ -14,7 +14,7 @@ It is different from the version on Dr. Gao's github.
 
 ​	Ubuntu 16.04 
 
-​	OpenCv 3.4.5
+​	OpenCV 3.4.5
 
 
 
